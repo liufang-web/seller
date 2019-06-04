@@ -26,7 +26,7 @@ public class Rating2RatingVO {
                 rateVO.setRecommend(strings);
             }
             rateVO.setRateType(rating.getRateType());
-            rateVO.setAvatar("http://static.galileo.xiaojukeji.com/static/tms/default_header.png");
+            rateVO.setAvatar("https://order-image.oss-cn-beijing.aliyuncs.com/seller-avatar-256px.jpg");
             rateVO.setDeliveryTime(rating.getDeliveryTime());
             rateVO.setText(rating.getRantingContent());
             rateVO.setRateTime(rating.getRateTime());

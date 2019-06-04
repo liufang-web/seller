@@ -7,7 +7,7 @@ import java.sql.Timestamp;
 import java.util.Objects;
 
 /**
- * create by RubyLiu
+ * create by LiuFang
  * 2019/5/15 14:56
  */
 @Entity
